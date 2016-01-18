@@ -1,0 +1,11 @@
+{
+  "name": "Cross-Platform-React",
+  "version": "1.0.0",
+  "devDependencies": {
+    "express": "4.11.2",
+    "react": "0.14.5",
+    "react-dom": "0.14.5",
+    "react-tools": "^0.13.3",
+    "xmlhttprequest": "1.7.0"
+  }
+}
